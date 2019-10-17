@@ -2,4 +2,6 @@ Project based on tutorial https://www.youtube.com/watch?v=UmljXZIypDc&amp;list=P
 
 Starting app: python manage.py runserver
 
+Python, Django
+
 It is deployed on Heroku
